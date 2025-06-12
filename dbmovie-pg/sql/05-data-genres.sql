@@ -1860,11 +1860,6 @@ COPY have_genre (movie_id, genre) FROM stdin;
 108160	Comedy
 108160	Drama
 108160	Romance
-108941	Adventure
-108941	Drama
-108941	Fantasy
-108941	Horror
-108941	Sci-Fi
 109444	Action
 109444	Crime
 109444	Drama
@@ -2032,10 +2027,6 @@ COPY have_genre (movie_id, genre) FROM stdin;
 117951	Drama
 118158	Adventure
 118158	Drama
-118460	Drama
-118460	Fantasy
-118460	Horror
-118460	Thriller
 118548	Action
 118548	Crime
 118548	Drama
@@ -2308,10 +2299,6 @@ COPY have_genre (movie_id, genre) FROM stdin;
 185431	Comedy
 185431	Fantasy
 185446	Drama
-185906	Action
-185906	Drama
-185906	History
-185906	War
 186566	Action
 186566	Adventure
 186566	Thriller
@@ -2565,11 +2552,6 @@ COPY have_genre (movie_id, genre) FROM stdin;
 368447	Thriller
 372784	Action
 372784	Adventure
-374463	Action
-374463	Adventure
-374463	Drama
-374463	History
-374463	War
 377057	Comedy
 378194	Action
 378194	Crime
@@ -3159,7 +3141,6 @@ COPY have_genre (movie_id, genre) FROM stdin;
 2297164	Drama
 2297164	Fantasy
 2297164	Sci-Fi
-2305700	Sport
 2310332	Adventure
 2310332	Fantasy
 2316204	Horror
@@ -3303,9 +3284,6 @@ COPY have_genre (movie_id, genre) FROM stdin;
 4682786	Drama
 4682786	Romance
 4818250	Comedy
-4824394	Action
-4824394	Comedy
-4824394	Sci-Fi
 4971344	Crime
 4971344	Drama
 4971344	Western
